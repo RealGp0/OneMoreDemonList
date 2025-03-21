@@ -6,22 +6,12 @@
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Lani",
+        "link": "https://www.youtube.com/channel/UCbKC5uPTZ5mIwNsqma4Xrtg"
     },
     {
         "role": "helper",
         "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]

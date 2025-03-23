@@ -129,7 +129,7 @@ export default {
                         Level must be at or above 30 seconds.
                     </p>
                     <p>
-                        Must not be a complete unstructured layout. However, ones that have a decent amount of effects and other stuff are allowed. (Lowest standard deco: <a href="https://youtu.be/MfVx1cZD-bw">https://youtu.be/MfVx1cZD-bw</a>)
+                        Must not be a complete unstructured layout. However, ones that have a decent amount of effects and other stuff are allowed. (Lowest standard deco: <a href="https://youtu.be/MfVx1cZD-bw" target="_blank">https://youtu.be/MfVx1cZD-bw</a>)
                     </p>
                     <p>
                         No secret ways or a level with random triggers that cause inescapable death.

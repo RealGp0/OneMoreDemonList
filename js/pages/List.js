@@ -98,9 +98,9 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Record Rules</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, CBF and FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -122,6 +122,13 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    </p>
+                      <h3>Level Rules</h3>
+                    <p>
+                        Level must be at or above 30 seconds
+                    </p>
+                    <p>
+                        Must not be a complete unstructured layout. However, ones that have a decent amount of effects and other stuff are allowed (Lowest standard deco: <a :href="https://youtu.be/MfVx1cZD-bw" target="_blank" class="type-label-lg">{{ https://youtu.be/MfVx1cZD-bw }}</a>)
                     </p>
                 </div>
             </div>

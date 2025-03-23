@@ -128,7 +128,7 @@ export default {
                         Level must be at or above 30 seconds
                     </p>
                     <p>
-                        Must not be a complete unstructured layout. However, ones that have a decent amount of effects and other stuff are allowed (Lowest standard deco: <a :href="https://youtu.be/MfVx1cZD-bw" target="_blank" class="type-label-lg">{{ https://youtu.be/MfVx1cZD-bw }}</a>)
+                        Must not be a complete unstructured layout. However, ones that have a decent amount of effects and other stuff are allowed (Lowest standard deco: https://youtu.be/MfVx1cZD-bw)
                     </p>
                 </div>
             </div>

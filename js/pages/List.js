@@ -7,11 +7,11 @@ import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
 
 const roleIconMap = {
-    owner: "crown",
-    admin: "user-gear",
-    helper: "user-shield",
-    dev: "code",
-    trial: "user-lock",
+    owner: "crown-dark",
+    admin: "user-gear-dark",
+    helper: "user-shield-dark",
+    dev: "code-dark",
+    trial: "user-lock-dark",
 };
 
 export default {
@@ -126,10 +126,13 @@ export default {
                     <br>
                       <h3>Level Rules</h3>
                     <p>
-                        Level must be at or above 30 seconds
+                        Level must be at or above 30 seconds.
                     </p>
                     <p>
-                        Must not be a complete unstructured layout. However, ones that have a decent amount of effects and other stuff are allowed (Lowest standard deco: https://youtu.be/MfVx1cZD-bw)
+                        Must not be a complete unstructured layout. However, ones that have a decent amount of effects and other stuff are allowed. (Lowest standard deco: https://youtu.be/MfVx1cZD-bw)
+                    </p>
+                    <p>
+                        No secret ways.
                     </p>
                 </div>
             </div>

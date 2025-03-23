@@ -129,10 +129,13 @@ export default {
                         Level must be at or above 30 seconds.
                     </p>
                     <p>
-                        Must not be a complete unstructured layout. However, ones that have a decent amount of effects and other stuff are allowed. (Lowest standard deco: https://youtu.be/MfVx1cZD-bw)
+                        Must not be a complete unstructured layout. However, ones that have a decent amount of effects and other stuff are allowed. (Lowest standard deco: <a href="https://youtu.be/MfVx1cZD-bw">https://youtu.be/MfVx1cZD-bw</a>)
                     </p>
                     <p>
-                        No secret ways.
+                        No secret ways or a level with random triggers that cause inescapable death.
+                    </p>
+                    <p>
+                        At least 50% of the creators have to be in the server, and one person that beat the level. It could be the verifier or just a victor. If its a victor, add a video to their completion.
                     </p>
                 </div>
             </div>

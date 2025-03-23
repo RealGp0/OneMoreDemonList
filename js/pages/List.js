@@ -123,6 +123,7 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <br>
                       <h3>Level Rules</h3>
                     <p>
                         Level must be at or above 30 seconds
